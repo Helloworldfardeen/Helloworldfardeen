@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Helloworldfardeen
 - 👀 I’m interested in Full Stack Web Development, Data Structures & Algorithms, and Software Development.
-- 🌱 I’m currently learning advanced technologies in Java, .NET, MERN stack, and exploring different charting libraries like ApexCharts, Chart.js, and Recharts.
-- 💞️ I’m looking to collaborate on projects involving Spring Boot, React, and data visualization tools.
+- 🌱 I’m currently learning advanced technologies in Java, .NET, MERN stack.
+- 💞️ I’m looking to collaborate on projects involving Spring Boot, React.
 - 📫 How to reach me: fardeen8303@gmail.com | [LinkedIn](https://linkedin.com/in/fardeenkhan777)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring new tech stacks!
